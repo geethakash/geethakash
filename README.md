@@ -6,8 +6,10 @@
   *  Javascript
   *  C#
   *  React.js.
-- 👀 I’m interested in Web Developing
-- 🚀 Follow me on [Instagram](https://www.instagram.com/geeth_akash_/)
+- 👀 I’m interested in Web Developing.
+
+
+🚀 Follow me on [Instagram](https://www.instagram.com/geeth_akash_/)
 
 
 
