@@ -1,6 +1,6 @@
 👋 Hi There, 
 
-- I’m Akash Geethanajana :hugs: - Junior Front End Developer in Bitblazers-lk.
+- I’m Akash Geethanajana :hugs: - Junior Front End Designer @ Bitblazers-lk.
 - 🌱 I’m currently learning,
   * Python
   *  Javascript
