@@ -1,11 +1,7 @@
 👋 Hi There, 
 #
 - I’m Akash Geethanajana :hugs:
-- 🌱 I’m currently learning,
-  * Python
-  *  Javascript
-  *  C#
-  *  React.js.
+- ⚡ I am Currently **learning, working my skills in web development.**
 - 👀 I’m interested in Web Developing.
 
 #
