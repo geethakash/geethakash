@@ -18,7 +18,8 @@
   <img alt="JavaScript" width="126px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
   <br/>
-  
+  ![image](https://user-images.githubusercontent.com/58387103/147271477-b0939f7a-9cfd-4fd7-946e-60bd7952e829.png)
+
   <h4>Frameworks, Libraries & Tools</h4>
   
   <img alt="Django" width="95px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=61DAFB" />
@@ -36,5 +37,5 @@
 
 
 
-🚀 Follow me on [Instagram](https://www.instagram.com/geeth_akash_/)
+ Follow me on [Instagram](https://www.instagram.com/geeth_akash_/)
 
