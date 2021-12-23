@@ -1,4 +1,4 @@
-👋 Hi There, 
+ Hi There, <img src="https://github.com/kesaralive/kesaralive/blob/main/src/wave.gif" width="30px">
 #
 - I’m Akash Geethanajana :hugs:
 - ⚡ I am Currently **learning, working my skills in web development.**
