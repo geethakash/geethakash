@@ -1,4 +1,4 @@
- Hi There, <img src="https://github.com/kesaralive/kesaralive/blob/main/src/wave.gif" width="30px">
+ Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
 #
 - I’m Akash Geethanajana :hugs:
 - ⚡ I am Currently **learning, working my skills in web development.**
@@ -7,10 +7,8 @@
 #
 
 <h3 align="center">
-  👨‍💻 Skills
+  Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> 
 </h3>
-
-<br/>
 
 <div align="center">
   <h4>Languages</h4>
@@ -21,13 +19,14 @@
   
   <br/>
   
-  <h4>Frameworks & Libraries</h4>
+  <h4>Frameworks, Libraries & Tools</h4>
   
   <img alt="Django" width="95px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=61DAFB" />
   <img alt="DjangoRestFramework" width="145px" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
   <img alt="Bootstrap" width="120px" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="TailwindCSS" width="135px" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="React" width="86px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  
   
   
   
@@ -38,25 +37,4 @@
 
 
 🚀 Follow me on [Instagram](https://www.instagram.com/geeth_akash_/)
-
-
-
-
-
-
-
-
-<!--
-**Geeth-AK-07/geeth-ak-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-<!-- - 🌱 I’m currently learning Reactjs -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 
