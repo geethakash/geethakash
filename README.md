@@ -18,7 +18,6 @@
   <img alt="JavaScript" width="126px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
   <br/>
-  ![image](https://user-images.githubusercontent.com/58387103/147271477-b0939f7a-9cfd-4fd7-946e-60bd7952e829.png)
 
   <h4>Frameworks, Libraries & Tools</h4>
   
