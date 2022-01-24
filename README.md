@@ -20,15 +20,16 @@
   <br/>
 
   <h3>Frameworks, Libraries & Tools</h3>
- <h5>Backend</h5>
-  <img alt="Django" width="95px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=61DAFB" />
-  <img alt="DjangoRestFramework" width="145px" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" /><br/>
  <h5>Frontend</h5>
   <img alt="Bootstrap" width="120px" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="TailwindCSS" width="135px" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
  <br/>
   <img alt="React" width="86px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="React" width="92px" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+ <br/>
+  <h5>Backend</h5>
+  <img alt="Django" width="95px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=61DAFB" />
+  <img alt="DjangoRestFramework" width="145px" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
   
   
   
