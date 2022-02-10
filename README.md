@@ -2,7 +2,7 @@
 
 - I’m <b>Akash Geethanajana</b> :hugs:
 - ⚡ I am Currently **learning, working my skills in web development.**
-- 👀 I’m interested in Web Developing.
+- 👀 I’m interested in Web Development.
 
 <img alt="Stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=geethakash&show_icons=true&locale=en&theme=tokyonight" />
 
