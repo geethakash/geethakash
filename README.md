@@ -1,16 +1,16 @@
- Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">
-#
-- I’m Akash Geethanajana :hugs:
+### <h1>Hi There,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1> 
+
+- I’m <b>Akash Geethanajana</b> :hugs:
 - ⚡ I am Currently **learning, working my skills in web development.**
 - 👀 I’m interested in Web Developing.
 
 <img alt="Stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=geethakash&show_icons=true&locale=en&theme=tokyonight" />
 
-#
+<!-- # -->
 
-<h2 align="center">
+<h1 align="center">
  Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> 
-</h2>
+</h1>
 
 <div align="center">
   <h3>Languages</h3>
