@@ -1,4 +1,4 @@
-### <h1>Hi There,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1> 
+### <h1>Hi There,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px"></h1> 
 
 - I’m <b>Akash Geethanajana</b> :hugs:
 - ⚡ I am Currently **learning, working my skills in web development.**
