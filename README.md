@@ -41,6 +41,8 @@
  <br/>
   <h5>Backend</h5>
   <img alt="Django" height="28px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=61DAFB" />
+  <img alt="Express" height="28px" src="https://img.shields.io/badge/express-white.svg?style=for-the-badge&logo=express&logoColor=black" />
+  <br/>
   <img alt="DjangoRestFramework" height="28px" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
   <img alt="GraphQL" height="28px" src="https://img.shields.io/badge/GraphQL-%23092E20.svg?style=for-the-badge&logo=graphql&color=F1D1F1&logoColor=E71FEA" />
   
