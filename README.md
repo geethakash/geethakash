@@ -58,7 +58,4 @@
   
 </div>
  
-#
-
- Follow me on [Instagram](https://www.instagram.com/geeth_akash/)
 
