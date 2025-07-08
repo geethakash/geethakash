@@ -1,7 +1,6 @@
 ### <h1>Hi There,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px"></h1> 
 
 - I’m <b>Akash Geethanajana</b> :hugs:
-- ⚡ I am Currently **learning, working my skills in web development.**
 
 <img alt="Stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=geethakash&show_icons=true&locale=en&theme=tokyonight" />
 
