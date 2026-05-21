@@ -29,9 +29,7 @@
 
  <br/>
   <img alt="React" height="28px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#aca9de" />
-  <img alt="Next.js" height="28px" src="https://img.shields.io/badge/Next-js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="Svelte" height="28px" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
- <img alt="SvelteKit" height="28px" src="https://img.shields.io/badge/Svelte-kit-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
  <br/>
  <img alt="Redux" height="28px" src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=8955EE" />
  
@@ -39,6 +37,8 @@
   <h5>Backend</h5>
   <img alt="Django" height="28px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=61DAFB" />
   <img alt="Express" height="28px" src="https://img.shields.io/badge/express-white.svg?style=for-the-badge&logo=express&logoColor=black" />
+  <img alt="Next.js" height="28px" src="https://img.shields.io/badge/Next-js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="SvelteKit" height="28px" src="https://img.shields.io/badge/Svelte-kit-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
   <br/>
   <img alt="DjangoRestFramework" height="28px" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
   <img alt="GraphQL" height="28px" src="https://img.shields.io/badge/GraphQL-%23092E20.svg?style=for-the-badge&logo=graphql&color=F1D1F1&logoColor=E71FEA" />
