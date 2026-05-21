@@ -2,7 +2,7 @@
 
 - I'm a Full-Stack Developer passionate about software engineering, who loves building scalable web applications with smooth, engaging user experiences.
 
-- My journey started with C# and CLI tools in 2019, evolved through building LMS platforms during COVID, and today I craft enterprise-grade frontends with modern web technologies. :hugs:
+- My journey started with C# and CLI tools in 2019, evolved through building LMS platforms during COVID, and today I craft enterprise-grade frontends with modern web technologies.
 
 <!-- # -->
 
