@@ -1,8 +1,8 @@
 ### <h1>Hi There,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px"></h1> 
 
-- I’m <b>Akash Geethanajana</b> :hugs:
+- I'm a Full-Stack Developer passionate about software engineering, who loves building scalable web applications with smooth, engaging user experiences.
 
-<img alt="Stats" height="150px"  src="https://github-readme-stats.vercel.app/api?username=geethakash&show_icons=true&locale=en&theme=tokyonight" />
+- My journey started with C# and CLI tools in 2019, evolved through building LMS platforms during COVID, and today I craft enterprise-grade frontends with modern web technologies. :hugs:
 
 <!-- # -->
 
@@ -17,10 +17,7 @@
   <img alt="CSS3" height="28px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="CSS3" height="28px" src="https://img.shields.io/badge/sass-1572B6?style=for-the-badge&logo=sass&color=F4B0EC" />
   <img alt="JavaScript" height="28px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- <br/>
- <img alt="Stats" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethakash&layout=compact&langs_count=8&theme=tokyonight&custom_title=Most%20Used%20Langauges&include_all_commits=true&count_private=true" />
- 
-  
+ <br/>  
   <br/>
 
   <h3>Frameworks, Libraries & Tools</h3>
