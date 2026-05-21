@@ -13,10 +13,12 @@
 <div align="center">
   <h3>Languages</h3>
   <img alt="Python" height="28px" src="https://img.shields.io/badge/python-1a1e33?style=for-the-badge&logo=python&logoColor=7CD9C1" />
+ <img alt="JavaScript" height="28px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</br>
   <img alt="HTML5" height="28px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" height="28px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="CSS3" height="28px" src="https://img.shields.io/badge/sass-1572B6?style=for-the-badge&logo=sass&color=F4B0EC" />
-  <img alt="JavaScript" height="28px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
  <br/>  
   <br/>
 
